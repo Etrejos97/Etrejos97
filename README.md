@@ -61,7 +61,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Etrejos97&theme=tokyonight&hide_border=true&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Etrejos97&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Etrejos97&theme=tokyonight)
 
 ---
 
