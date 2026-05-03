@@ -59,9 +59,9 @@
 
 ### 📊 GitHub Stats
 
-![Etrejos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Etrejos97&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Etrejos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Etrejos97&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Etrejos97&layout=compact&theme=tokyonight&hide_border=true
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Etrejos97&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
