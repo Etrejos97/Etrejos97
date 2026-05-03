@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Stats
 
-![Etrejos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Etrejos97&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Etrejos97&theme=tokyonight&hide_border=true&locale=es)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Etrejos97&layout=compact&theme=tokyonight&hide_border=true)
 
